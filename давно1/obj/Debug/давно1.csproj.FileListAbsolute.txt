@@ -1,0 +1,7 @@
+D:\Новая папка\давно1\bin\Debug\давно1.exe.config
+D:\Новая папка\давно1\bin\Debug\давно1.exe
+D:\Новая папка\давно1\bin\Debug\давно1.pdb
+D:\Новая папка\давно1\obj\Debug\давно1.csproj.AssemblyReference.cache
+D:\Новая папка\давно1\obj\Debug\давно1.csproj.CoreCompileInputs.cache
+D:\Новая папка\давно1\obj\Debug\давно1.exe
+D:\Новая папка\давно1\obj\Debug\давно1.pdb
